@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLR</string>
+    <string name="caption">Просмотр галереи</string>
+    <string name="prev">Назад</string>
+    <string name="next">Вперед</string>
+    <string name="img_link">http://myfile.org/</string>
+</resources>
